@@ -1,0 +1,43 @@
+{
+	"groups": [
+		{
+			"keys": "btn_back_orangel_up_png,likeyou_jpg",
+			"name": "game"
+		},
+		{
+			"keys": "EventBG_26.bdl_png",
+			"name": "loading"
+		},
+		{
+			"keys": "BGM_TITLE_mp3",
+			"name": "sound"
+		}
+	],
+	"resources": [
+		{
+			"url": "config/netconfig.json",
+			"type": "json",
+			"name": "netconfig_json"
+		},
+		{
+			"url": "images/EventBG_26.bdl.png",
+			"type": "image",
+			"name": "EventBG_26.bdl_png"
+		},
+		{
+			"url": "images/btn_back_orangel_up.png",
+			"type": "image",
+			"name": "btn_back_orangel_up_png"
+		},
+		{
+			"url": "sound/BGM_TITLE.mp3",
+			"type": "sound",
+			"name": "BGM_TITLE_mp3"
+		},
+		{
+			"url": "images/likeyou.jpg",
+			"type": "image",
+			"name": "likeyou_jpg"
+		}
+	]
+}

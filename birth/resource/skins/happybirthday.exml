@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="happybirthday" width="1136" height="758" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image source="BG2_jpg" left="0" right="0" top="0" bottom="0"/>
+	<e:Image id="gift" source="Gift_png" x="523.67" y="231.33"/>
+	<e:Label text="快点击你的礼物吧！" horizontalCenter="144.5" verticalCenter="-200" size="50" textColor="0x000000" bold="true"/>
+</e:Skin>

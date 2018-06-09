@@ -1,0 +1,43 @@
+{
+	"groups": [
+		{
+			"keys": "BG2_jpg,Gift_png",
+			"name": "game"
+		},
+		{
+			"keys": "BG_jpg,config_json",
+			"name": "loading"
+		},
+		{
+			"keys": "HappyBirthday_m4a",
+			"name": "sound"
+		}
+	],
+	"resources": [
+		{
+			"url": "images/BG.jpg",
+			"type": "image",
+			"name": "BG_jpg"
+		},
+		{
+			"url": "images/BG2.jpg",
+			"type": "image",
+			"name": "BG2_jpg"
+		},
+		{
+			"url": "images/Gift.png",
+			"type": "image",
+			"name": "Gift_png"
+		},
+		{
+			"url": "sound/HappyBirthday.m4a",
+			"type": "sound",
+			"name": "HappyBirthday_m4a"
+		},
+		{
+			"url": "config/config.json",
+			"type": "json",
+			"name": "config_json"
+		}
+	]
+}

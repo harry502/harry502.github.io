@@ -1,0 +1,15 @@
+{
+	"skins": {},
+	"autoGenerateExmlsList": true,
+	"exmls": [
+		{
+			"path": "resource/skins/LoadingSkin.exml",
+			"content": "<?xml version='1.0' encoding='utf-8'?>\r\n<e:Skin class=\"LoadingSkin\" width=\"1400\" height=\"640\" xmlns:e=\"http://ns.egret.com/eui\" xmlns:w=\"http://ns.egret.com/wing\">\r\n\t<e:Image id=\"bg\" scaleX=\"1\" scaleY=\"1\" left=\"0\" right=\"0\" top=\"0\" bottom=\"0\" width=\"1400\" source=\"EventBG_26.bdl_png\"/>\r\n\t<e:Label id=\"t_loading\" size=\"67\" fontFamily=\"Microsoft YaHei\" text=\"100%\" verticalAlign=\"middle\" textAlign=\"center\" width=\"200\" textColor=\"0xFFFFFF\" lineSpacing=\"12\" horizontalCenter=\"0\" bottom=\"111\" height=\"60\"/>\r\n\t<e:Label text=\"资源正在加载中，请稍后...\" size=\"80\" horizontalCenter=\"0\" verticalCenter=\"60\"/>\r\n</e:Skin>"
+		},
+		{
+			"path": "resource/skins/mainSkin.exml",
+			"content": "<?xml version=\"1.0\" encoding=\"utf-8\"?>\n<e:Skin class=\"mainSkin\" width=\"1136\" height=\"758\" xmlns:e=\"http://ns.egret.com/eui\" xmlns:w=\"http://ns.egret.com/wing\">\n\t<e:Image source=\"EventBG_26.bdl_png\" left=\"0\" right=\"0\" top=\"0\" bottom=\"0\"/>\n\t<e:Label id=\"title\" text=\"小姐姐喜欢我吗？\" size=\"80\" horizontalCenter=\"0\" top=\"50\" textColor=\"0x000000\" fontFamily=\"SimHei\"/>\n\t<e:Group id=\"flashBox\" anchorOffsetX=\"0\" anchorOffsetY=\"0\" left=\"424\" right=\"0\" top=\"134\" bottom=\"0\"/>\n\t<e:Group id=\"notlike\" width=\"221\" height=\"78\" x=\"715\" y=\"580\">\n\t\t<e:Image source=\"btn_back_orangel_up_png\" horizontalCenter=\"0\" verticalCenter=\"0\"/>\n\t\t<e:Label text=\"不喜欢\" horizontalCenter=\"0\" verticalCenter=\"0\" size=\"50\" textColor=\"0x000000\" fontFamily=\"SimHei\"/>\n\t</e:Group>\n\t<e:Group id=\"like\" width=\"221\" height=\"78\" left=\"200\" bottom=\"100\">\n\t\t<e:Image source=\"btn_back_orangel_up_png\" horizontalCenter=\"0\" verticalCenter=\"0\"/>\n\t\t<e:Label text=\"喜欢\" horizontalCenter=\"0\" verticalCenter=\"0\" size=\"50\" textColor=\"0x000000\" fontFamily=\"SimHei\"/>\n\t</e:Group>\n\t<e:Image id=\"flower\" source=\"likeyou_jpg\" horizontalCenter=\"0\" verticalCenter=\"0\" width=\"400\" height=\"400\" visible=\"false\"/>\n</e:Skin>"
+		}
+	],
+	"path": "resource/default.thm.json"
+}
