@@ -1,0 +1,29 @@
+{
+	"groups": [
+		{
+			"keys": "btn_back_orangel_up_png",
+			"name": "game"
+		},
+		{
+			"keys": "bg_jpg",
+			"name": "loading"
+		}
+	],
+	"resources": [
+		{
+			"url": "config/netconfig.json",
+			"type": "json",
+			"name": "netconfig_json"
+		},
+		{
+			"url": "images/bg.jpg",
+			"type": "image",
+			"name": "bg_jpg"
+		},
+		{
+			"url": "images/btn_back_orangel_up.png",
+			"type": "image",
+			"name": "btn_back_orangel_up_png"
+		}
+	]
+}

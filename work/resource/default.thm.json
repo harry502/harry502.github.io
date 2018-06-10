@@ -1,0 +1,23 @@
+{
+	"skins": {},
+	"autoGenerateExmlsList": true,
+	"exmls": [
+		{
+			"path": "resource/skins/FirstSkin.exml",
+			"content": "<?xml version=\"1.0\" encoding=\"utf-8\"?>\n<e:Skin class=\"FirstSkin\" width=\"1136\" height=\"758\" xmlns:e=\"http://ns.egret.com/eui\" xmlns:w=\"http://ns.egret.com/wing\">\n\t<e:Image left=\"0\" right=\"0\" top=\"0\" bottom=\"0\" source=\"bg_jpg\"/>\n\t<e:Group id=\"back\" width=\"221\" height=\"78\" left=\"458\" bottom=\"37\">\n\t\t<e:Image source=\"btn_back_orangel_up_png\" horizontalCenter=\"0\" verticalCenter=\"0\"/>\n\t\t<e:Label text=\"返回\" horizontalCenter=\"0\" verticalCenter=\"0\" size=\"40\" textColor=\"0x000000\" fontFamily=\"SimHei\"/>\n\t</e:Group>\n\t<e:Label text=\"产品介绍\" horizontalCenter=\"0\" top=\"20\" textColor=\"0x000000\" bold=\"true\" size=\"80\"/>\n\t<e:Label text=\"娃哈哈锌多多钙多多是由爽歪歪优化而来，外包装结合孩子对小黄鸭的清楚认知，设计了精致的瓶身。并且增加了瓶盖，更加健康卫生。 全新的钙多多 锌多多，营养更均衡。娃哈哈爽歪歪的诞生采用国际领先的微胶囊包埋技术，强化了儿童生长发育所需的维生素A、D和维生素B3、B6、B12，还特别添加了，经过优质益生菌发酵后，口感更滑爽、营养更易吸收，给孩子们更多保护、更多健康！而锌多多钙多多则是在爽歪歪的基础上升级而来，更多营养更美味。\" x=\"142\" y=\"144\" anchorOffsetX=\"0\" width=\"854\" anchorOffsetY=\"0\" height=\"470\" textColor=\"0x000000\" size=\"40\" bold=\"true\"/>\n</e:Skin>"
+		},
+		{
+			"path": "resource/skins/LoadingSkin.exml",
+			"content": "<?xml version='1.0' encoding='utf-8'?>\r\n<e:Skin class=\"LoadingSkin\" width=\"1400\" height=\"640\" xmlns:e=\"http://ns.egret.com/eui\" xmlns:w=\"http://ns.egret.com/wing\">\r\n\t<e:Image id=\"bg\" scaleX=\"1\" scaleY=\"1\" left=\"0\" right=\"0\" top=\"0\" bottom=\"0\" width=\"1400\" source=\"bg_jpg\"/>\r\n\t<e:Label id=\"t_loading\" size=\"67\" fontFamily=\"Microsoft YaHei\" text=\"100%\" verticalAlign=\"middle\" textAlign=\"center\" width=\"200\" textColor=\"0xFFFFFF\" lineSpacing=\"12\" horizontalCenter=\"0\" bottom=\"111\" height=\"60\"/>\r\n\t<e:Label text=\"资源正在加载中，请稍后...\" size=\"80\" horizontalCenter=\"0\" verticalCenter=\"60\"/>\r\n</e:Skin>"
+		},
+		{
+			"path": "resource/skins/mainSkin.exml",
+			"content": "<?xml version=\"1.0\" encoding=\"utf-8\"?>\n<e:Skin class=\"mainSkin\" width=\"1136\" height=\"758\" xmlns:e=\"http://ns.egret.com/eui\" xmlns:w=\"http://ns.egret.com/wing\">\n\t<e:Image left=\"0\" right=\"0\" top=\"0\" bottom=\"0\" source=\"bg_jpg\"/>\n\t<e:Label id=\"title\" text=\"娃哈哈钙多多&amp;锌多多\" size=\"80\" horizontalCenter=\"0\" top=\"50\" textColor=\"0x000000\" fontFamily=\"SimHei\"/>\n\t<e:Group id=\"Second\" width=\"221\" height=\"78\" x=\"715\" y=\"580\">\n\t\t<e:Image source=\"btn_back_orangel_up_png\" horizontalCenter=\"0\" verticalCenter=\"0\"/>\n\t\t<e:Label text=\"广告理念\" horizontalCenter=\"0\" verticalCenter=\"0\" size=\"40\" textColor=\"0x000000\" fontFamily=\"SimHei\"/>\n\t</e:Group>\n\t<e:Group id=\"First\" width=\"221\" height=\"78\" left=\"200\" bottom=\"100\">\n\t\t<e:Image source=\"btn_back_orangel_up_png\" horizontalCenter=\"0\" verticalCenter=\"0\"/>\n\t\t<e:Label text=\"产品介绍\" horizontalCenter=\"0\" verticalCenter=\"0\" size=\"40\" textColor=\"0x000000\" fontFamily=\"SimHei\"/>\n\t</e:Group>\n\t<e:Group id=\"videoGrp\" width=\"670.66\" height=\"368\" x=\"232.67\" y=\"172.34\" anchorOffsetX=\"0\" anchorOffsetY=\"0\"/>\n</e:Skin>"
+		},
+		{
+			"path": "resource/skins/SecondSkin.exml",
+			"content": "<?xml version=\"1.0\" encoding=\"utf-8\"?>\n<e:Skin class=\"SecondSkin\" width=\"1136\" height=\"758\" xmlns:e=\"http://ns.egret.com/eui\" xmlns:w=\"http://ns.egret.com/wing\">\n\t<e:Image left=\"0\" right=\"0\" top=\"0\" bottom=\"0\" source=\"bg_jpg\"/>\n\t<e:Group id=\"back\" width=\"221\" height=\"78\" left=\"458\" bottom=\"37\">\n\t\t<e:Image source=\"btn_back_orangel_up_png\" horizontalCenter=\"0\" verticalCenter=\"0\"/>\n\t\t<e:Label text=\"返回\" horizontalCenter=\"0\" verticalCenter=\"0\" size=\"40\" textColor=\"0x000000\" fontFamily=\"SimHei\"/>\n\t</e:Group>\n\t<e:Label text=\"广告理念\" horizontalCenter=\"0\" top=\"20\" textColor=\"0x000000\" bold=\"true\" size=\"80\"/>\n\t<e:Label text=\"主打“养生”旗号，结合当代年轻人生活饮食不规律的现状，让更多的年轻人关注自己的身体，并在熬夜后能够联想到这款酸奶，随之产生养生的想法。\" x=\"93.28\" y=\"144\" anchorOffsetX=\"0\" width=\"949.45\" anchorOffsetY=\"0\" height=\"470\" textColor=\"0x000000\" size=\"60\" bold=\"true\"/>\n</e:Skin>"
+		}
+	],
+	"path": "resource/default.thm.json"
+}
