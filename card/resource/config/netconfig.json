@@ -1,4 +1,4 @@
 {
-    "url" : "ws://139.199.66.152:8081/ws/game",
-    "http_url" : "http://139.199.66.152/card/backend/web/index.php?r="
+    "url" : "ws://49.235.229.52:8081/ws/game",
+    "http_url" : "http://49.235.229.52/card/backend/web/index.php?r="
 }
